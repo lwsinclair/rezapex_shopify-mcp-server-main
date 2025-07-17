@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-rezapex-shopify-mcp-server-main-badge.png)](https://mseep.ai/app/mcp-mirror-rezapex-shopify-mcp-server-main)
+
 # Shopify MCP Server
 
 MCP Server for Shopify API, enabling interaction with store data through GraphQL API. This server provides tools for managing products, customers, orders, and more.
